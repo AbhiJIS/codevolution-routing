@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "templateWithRouting"
+    }
+  },
+  "defaultProject": "templateWithRouting",
+  "cli": {
+    "analytics": false
+  }
 }
