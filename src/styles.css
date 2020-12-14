@@ -116,7 +116,7 @@ h1 {
     border-radius: 4px 0 0 4px;
   }
   .items li.selected {
-    background-color: #CFD8DC;
+    background-color: green;
     color: white;
   }
   /* everywhere else */
